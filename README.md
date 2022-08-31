@@ -22,4 +22,7 @@ Email: ren.yang@vision.ee.ethz.ch
 
 ## Challenge
 
-The details of the challenge settings, open-sourced codes, etc. are coming soon,
+Track 1: https://codalab.lisn.upsaclay.fr/competitions/5076
+Track 2: https://codalab.lisn.upsaclay.fr/competitions/5077
+
+The detailed summary of the challenge settings, open-sourced codes, etc. are coming soon.
