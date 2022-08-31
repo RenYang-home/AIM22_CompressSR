@@ -19,3 +19,7 @@ If you have questions, find dead links or bugs, please feel free to contact:
 Ren Yang @ ETH Zurich, Switzerland   
 
 Email: ren.yang@vision.ee.ethz.ch
+
+## Challenge
+
+The details of the challenge settings, open-sourced codes, etc. are coming soon,
