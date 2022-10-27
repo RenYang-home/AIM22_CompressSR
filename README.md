@@ -82,6 +82,7 @@ ffmpeg -i path_to_compressed/001.mkv ./001/%3d.png
 ## Publications in the challenges
 
 [CIDBNet: A Consecutively-Interactive Dual-Branch Network for JPEG Compressed Image Super-Resolution]()
+
 Xiaoran Qin (Institute of Automation, Chinese Academy of Sciences); Yu Zhu (School of Computer Science and Engineering,Anhui University); Chenghua Li (Institute of Automation Chinese Academy of Sciences); Peisong Wang (Institute of Automation, Chinese Academy of Sciences); Jian Cheng ("Chinese Academy of Sciences, China")
 
 [Hierarchical Swin Transformer for Compressed Image Super-Resolution](https://arxiv.org/pdf/2208.09885)
