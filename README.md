@@ -85,7 +85,9 @@ ffmpeg -i path_to_compressed/001.mkv ./001/%3d.png
 Xiaoran Qin (Institute of Automation, Chinese Academy of Sciences); Yu Zhu (School of Computer Science and Engineering,Anhui University); Chenghua Li (Institute of Automation Chinese Academy of Sciences); Peisong Wang (Institute of Automation, Chinese Academy of Sciences); Jian Cheng ("Chinese Academy of Sciences, China")
 
 [Hierarchical Swin Transformer for Compressed Image Super-Resolution](https://arxiv.org/pdf/2208.09885)
+
 Bingchen Li (Unversity of Science and Technology of China); Xin Li (University of Science and Technology of China); yiting lu (University of Science and Technology of China); Sen Liu (University of Science and Technology of China); Ruoyu Feng (University of Science and Technology of China); Zhibo Chen (University of Science and Technology of China)
 
 [Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration](https://arxiv.org/pdf/2209.11345)
+
 Marcos V. Conde (University of Würzburg); CHOI Ui-Jin (MegastudyEdu); Maxime Burchi (University of Würzburg); Radu Timofte (University of Wurzburg & ETH Zurich)
