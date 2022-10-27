@@ -79,7 +79,7 @@ ffmpeg -i path_to_raw/001.mkv ./raw_001/%3d.png
 ffmpeg -i path_to_compressed/001.mkv ./001/%3d.png
 ```
 
-## Publications in the challenges
+## Publications in the challenge
 
 [CIDBNet: A Consecutively-Interactive Dual-Branch Network for JPEG Compressed Image Super-Resolution]()
 
